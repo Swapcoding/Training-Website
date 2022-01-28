@@ -1,0 +1,34 @@
+.top-section{
+    background-color: black;
+    background-image: url("Main wall.jpg");
+    background-size: auto 100%;
+    height: 600px;
+    max-width: 100%;
+    
+    
+    padding: 25px;
+    padding-top: 125px;
+    text-align: center;
+    
+    color: blanchedalmond;
+    
+}
+
+
+.middle-section{
+    background-image: linear-gradient(black,red);
+    background-size: auto 100%;
+    height:auto;
+    max-width: 100%;
+    
+    
+    padding: 25px;
+    text-align: center;
+
+}
+
+.bottom-section{
+    background-image: linear-gradient(black,blue);
+    height:500px;
+    width:100%;
+}

@@ -1,0 +1,113 @@
+.Header {
+    display: flex;
+    
+    
+    
+  }
+  section {
+    height:calc(90% - 50px);
+    height: 90vh;
+  }
+  .Sub-headings{
+    position: absolute;
+    top: 180px;
+    left: 37%;
+    text-align: center;
+    color: white;
+    text-align: center;
+  }
+  
+  .navbar{
+    background-color:transparent;
+  }
+  nav .navbar-nav .nav-link,
+  nav .navbar-brand {
+     color: #111;
+  }
+  .affix {
+    background-color: none;
+    -webkit-transition:padding 0.2s ease-out;
+    -moz-transition:padding 0.2s ease-out;  
+    -o-transition:padding 0.2s ease-out;         
+    transition:padding 0.2s ease-out;
+  }
+  
+  @media (min-width:768px) {
+    .affix-top {
+      /* navbar style at top */
+      background-color:transparent;
+      border-color:transparent;
+      padding: 15px;
+      -webkit-transition:all 0.5s ease;
+      -moz-transition:all 0.5s ease; 
+      -o-transition:all 0.5s ease;         
+      transition:all 0.5s ease;  
+    }
+  }
+  h2{
+    position: absolute;
+    left: 70px;
+    top: 20px;
+  }
+  .THENX-LOGO{
+    position: absolute;
+    left: 10px;
+    top: 10px;
+    padding-top: 10px;
+  }
+  span{
+    padding: 10px;
+    
+  }
+  .top-pane{
+    background-image: linear-gradient(black);
+    width: 100%;
+    height: 100px;
+  }
+  #heading{
+    color: white;
+    text-align: center;
+    
+    position: absolute;
+    top: 100px;
+    left: 32%;
+    
+    
+  }
+  .top-container{
+    
+    width: 100%;
+    height: 350px;
+    
+    
+    
+  }
+  .header-sub{
+    color: white;
+    text-align: center;
+  }
+  
+  .middle-container{
+    
+    width: 100%;
+    background-color: palegoldenrod;
+    padding: 100px;
+  }
+  
+  .lower-container{
+    background-color: cornflowerblue;
+    width: 100%s;
+  }
+  
+  
+  
+  body {
+    margin: 0;
+    
+  }
+  h1{
+    margin-top: 0;
+    align-items: center;
+  }
+  
+  
